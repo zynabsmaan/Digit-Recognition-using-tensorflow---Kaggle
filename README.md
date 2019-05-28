@@ -19,6 +19,9 @@ Your browser does not support the video tag.
 </video>
 </div>
 
+<h4>Install training data from <a href="https://www.kaggle.com/c/digit-recognizer/download/train.csv">here.</a></h4>
+<h4>Install testing data from <a href="https://www.kaggle.com/c/digit-recognizer/download/test.csv">here.</a></h4>
+
 <h5 color='green'>The code is dynamic, you can change:
 <li>1 - The number of layers.</li>
 <li>2 - The number of nodes in each layer.</li>
