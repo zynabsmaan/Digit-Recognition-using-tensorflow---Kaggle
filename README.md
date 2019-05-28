@@ -1,4 +1,4 @@
-# Digit-Recognition-using-tensorflow---Kaggle
+<h1 text-align='center'>Digit Recognizer(Kaggle) using tensorflow.</h1>
 
 <h3>Author: <i>Zynab Smaan.</i></h3>
 
@@ -19,7 +19,7 @@ Your browser does not support the video tag.
 </video>
 </div>
 
-<h5 color='green'>The code is dynamic you can change:
+<h5 color='green'>The code is dynamic, you can change:
 <li>1 - The number of layers.</li>
 <li>2 - The number of nodes in each layer.</li>
 <li>3 - Batch size.</li>
@@ -43,9 +43,9 @@ model_1_animatedAcc.mp4.
 
 </div>
 
-<h4>Dependecies:-</h4>
-<li>Numpy -- install from <a href="https://docs.scipy.org/doc/numpy/user/install.html"></a>.</li>
-<li>pandas -- install from <a href='https://pandas.pydata.org/pandas-docs/stable/install.html'></a>.</li>
+<h4>Dependecies:</h4>
+<li>Numpy -- install from <a href="https://docs.scipy.org/doc/numpy/user/install.html">here</a>.</li>
+<li>pandas -- install from <a href='https://pandas.pydata.org/pandas-docs/stable/install.html'>here</a>.</li>
 <li>SKLearn -- run <b>pip install -U scikit-learn</b>.</li>
 <li>Matplotlib -- install from <a href='https://matplotlib.org/3.1.0/faq/installing_faq.html#install-from-source'>here.</a></li>
 <li>seaborn 9.0.0 -- run <b>pip install seaborn==0.9.0</b></li>
