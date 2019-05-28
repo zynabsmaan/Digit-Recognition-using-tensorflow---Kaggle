@@ -1,0 +1,8 @@
+The number of all layers is 3.
+The number of hidden layers is 1.
+The number of nodes is [784, 200, 10].
+    The learning rate is 0.0011.
+The number of iterations is 500.
+The batch size is 64.
+Thetraining acc is 0.96875.
+    The testing acc is 0.9490476250648499.
