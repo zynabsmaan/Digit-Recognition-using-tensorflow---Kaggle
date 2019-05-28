@@ -10,13 +10,10 @@ The solution is building simple Neural Network to learn how to detect the digit.
 Also, there is a tutorial about drawing an animated plot for accuracies and save it.
 </p>
 
+<h4>This solution achieves from 97% to 98% for validation accuracy.</h4>
+
 <div style="text-align:center">
-<video width="700" height="240" autoplay muted>
-  <source src="demo.mp4" type="video/mp4">
-  <source src="demo.ogg" type='video/ogg'>
-  
-Your browser does not support the video tag.
-</video>
+<img src="model_1_animatedAcc.gif">
 </div>
 
 <h4>Install training data from <a href="https://www.kaggle.com/c/digit-recognizer/download/train.csv">here.</a></h4>
